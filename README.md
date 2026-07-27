@@ -27,6 +27,7 @@ position:absolute;left:50px;top:50px;transform-translate(-50%,-50%);">
   <a href="https://en.wikipedia.org/wiki/NASA">NASA is one of the leading space agencies in the world.</a>
   <a href="https://en.wikipedia.org/wiki/Aerospace_engineering">Engineers that specializes in aerospace technology because to them space is the biggest mystery in the universe.</a>
 </div>
+</div>
    <script>
 
         function updateTime() {
@@ -34,7 +35,7 @@ position:absolute;left:50px;top:50px;transform-translate(-50%,-50%);">
         var timeText = document.querySelector("#timeElement");
         timeText.innerHTML = currentTime;
        }      
-       setInterval(updateTime, 1000);
+        setInterval(updateTime, 1000);
    </script>
 </html>
 </body>
