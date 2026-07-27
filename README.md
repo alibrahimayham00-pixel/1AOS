@@ -2,7 +2,7 @@
 <html>
 <body>
 <div style="border:solid; color:navy;padding:20px; margin:5px;width:1000px;
-position:absolute;left:50px;top:50px;transform-translate(-50,-50%);background-color:grey;
+position:absolute;left:50px;top:50px;transform-translate(-50,-50%);background-color:grey;">
 <div style="border:solid; color:navy;padding:20px; margin:5px;width:1000px;
 position:absolute;left:50px;top:50px;transform-translate(-50%,-50%);">
 <div style="display:flex;justify-content:space-between;background-color:RGBA(0,0,0,0.125);">
