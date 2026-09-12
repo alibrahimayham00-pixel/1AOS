@@ -20,7 +20,7 @@ position:absolute;left:50px;top:50px;transform-translate(-50%,-50%);">
         <h1 style="color:dark blue;margin:5px"> Hello, dear user!</h1> 
         <h2 style="font-family:Arial bold; color:dark blue;margin: left 3px margin right 3px;size: 100px;">
         Welcome to AOS</h2>    
-  <p>Welcome world <br>To ayham's own OS system.</p>
+  <p>Welcome world <br>To my own OS system.</p>
   <a href="https://jams.hackclub.com/batch/webOS/part-2" style="color:dark blue;">Join the AOS Batch and learn how to build your own os system from sctarh</a>
   <img style="border: solid ; color:red; border-radius:10px ;" src="https://www.planitplus.net/JobProfileImages/69.png" alt="Abstract space themed graphic featuring the letters AOS on a light background that suggests futuristic aerospace exploration" >
   <br>
